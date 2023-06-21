@@ -1,6 +1,3 @@
-# java-calculator
-The CalculatorApp is a Java-based calculator application with a graphical user interface. It provides users with the ability to perform various mathematical operations such as addition, subtraction, multiplication, division, exponentiation, square root, and trigonometric functions. 
-
 CalculatorApp
 The CalculatorApp is a Java program that provides a graphical user interface for a calculator application. It allows users to perform various mathematical operations, including basic arithmetic, exponentiation, trigonometric functions, square root, and memory operations. The application utilizes Swing and AWT libraries to create the GUI components.
 
